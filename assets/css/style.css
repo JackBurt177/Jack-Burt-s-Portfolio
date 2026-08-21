@@ -348,10 +348,10 @@ section { padding: 88px 0; }
 .work-card-logo {
   display: flex;
   align-items: center;
-  min-height: 44px;
+  min-height: 88px;
 }
 .work-card-logo img {
-  max-height: 44px;
+  max-height: 88px;
   width: auto;
   max-width: 100%;
   object-fit: contain;
